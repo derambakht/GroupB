@@ -33,7 +33,7 @@ class App extends Component {
         <Menu.Item as='a'><Link to="/posts">Posts</Link></Menu.Item>
       </Container>
     </Menu>
-
+      {/* Test for git commit */}
     <Container text style={{ marginTop: '7em' }}>
       <Header as='h1'>Semantic UI React Fixed Template</Header>
       <p>This is a basic fixed menu template using fixed size containers.</p>
